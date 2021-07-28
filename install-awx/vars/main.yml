@@ -1,1 +1,1 @@
-git_repo: git clone -b x.y.z https://github.com/ansible/awx.git
+git_repo: git clone https://github.com/ansible/awx.git
